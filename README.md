@@ -1,4 +1,4 @@
-# Logn-react-native
+# Login-react-native
 Login react-native  
 
 
@@ -10,11 +10,11 @@ install react navigation
 
 yarn add react-navigation
 # or with npm
-# npm install --save react-navigation
+npm install --save react-navigation
 
 yarn add react-native-gesture-handler
 # or with npm
-# npm install --save react-native-gesture-handler
+npm install --save react-native-gesture-handler
 
 react-native link react-native-gesture-handler
 
